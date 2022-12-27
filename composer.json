@@ -1,7 +1,6 @@
 {
-    "name": "wpstrap/wordpress-plugin-boilerplate",
-    "description": "Wordpress Plugin Boilerplate",
-    "version": "0.3.1",
+    "name": "rdev/custom-auth-via-api",
+    "description": "Custom auth via API",
     "minimum-stability": "stable",
     "prefer-stable": true,
     "type": "wordpress-plugin",
@@ -53,9 +52,9 @@
     ],
     "authors": [
         {
-            "name": "WP-Strap",
-            "email": "hello@wp-strap.com",
-            "homepage": "https://wp-strap.com"
+            "name": "Rakim09",
+            "email": "bartlomiej.dziewa@outlook.com",
+            "homepage": "https://github.com/Rakim09/"
         }
     ],
     "config": {
