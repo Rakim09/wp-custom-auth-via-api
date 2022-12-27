@@ -3,5 +3,5 @@
 ## Quickstart
 
 1. Download zip from release page
-2. Go to wordpress dashboard -> Settings -> Custom Auth via API
+2. Go to wordpress dashboard -> Settings -> Custom Auth via API\
    a. type in login and registration urls
