@@ -33,4 +33,4 @@ jobs:
           ${{ runner.os }}-php-
 
     - name: Install dependencies
-      run: composer install --no-dev --prefer-dist --no-progress --no-interaction
+      run: composer install --no-dev --no-progress --no-interaction
