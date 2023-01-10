@@ -81,6 +81,7 @@ class Authentication extends Base {
 				]);
 
 				$user = new WP_User ( $new_user_id );
+				$user->set_role('customer');
 			}
 		}
 		return $user;
